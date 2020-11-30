@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Camera", "Camera\Camera.pyproj", "{3FA78DF8-C094-4276-B3F1-FF5D1B9B8A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FA78DF8-C094-4276-B3F1-FF5D1B9B8A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA78DF8-C094-4276-B3F1-FF5D1B9B8A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F680E2-AFF7-42AD-A95D-0ABAAAAC78E1}
+	EndGlobalSection
+EndGlobal
